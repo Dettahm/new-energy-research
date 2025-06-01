@@ -1,0 +1,15 @@
+# Ignore Firebase build and config folders
+.firebase/
+.firebaserc
+firebase.json
+
+# Ignore node modules (if using Node.js)
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled files
+dist/
+build/
